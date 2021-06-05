@@ -13,6 +13,23 @@
       "title": "post 3"
     }
   ],
+  "authors": [
+	{
+		"id": 1,
+		"name": Marcos,
+		"dateRegistry": "20/05/2021"
+	},
+	{
+		"id": 2,
+		"name": Nuria,
+		"dateRegistry": "20/05/2021"
+	},
+	{
+		"id": 3,
+		"name": Bertin,
+		"dateRegistry": "20/05/2021"
+	}
+  ],
   "profile": {
     "name": "typicode"
   }
