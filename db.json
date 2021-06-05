@@ -16,17 +16,17 @@
   "authors": [
 	{
 		"id": 1,
-		"name": Marcos,
+		"name": "Marcos",
 		"dateRegistry": "20/05/2021"
 	},
 	{
 		"id": 2,
-		"name": Nuria,
+		"name": "Nuria",
 		"dateRegistry": "20/05/2021"
 	},
 	{
 		"id": 3,
-		"name": Bertin,
+		"name": "Bertin",
 		"dateRegistry": "20/05/2021"
 	}
   ],
